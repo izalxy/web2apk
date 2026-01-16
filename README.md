@@ -261,7 +261,7 @@ Setelah berjalan, Anda akan melihat:
 
 🌐 Web Dashboard:
    Local:   http://localhost:3201
-   Network: http://erine.jkt48-private.com:3201
+   Network: http://localhost:3201
 ```
 
 ---
